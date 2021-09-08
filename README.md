@@ -8,7 +8,7 @@ We are going live soon. Meet us at [TADHack 2021](https://tadhack.com/2021/).
 
 The TADHack teaser is now live.
 
-[![TADHack 2021 Intro Video](https://img.youtube.com/vi/KfzD_1QrFww/0.jpg)](http://www.youtube.com/watch?v=KfzD_1QrFww "TADHack 2021 Intro Video")
+[![TADHack 2021 Intro Video](https://img.youtube.com/vi/KfzD_1QrFww/0.jpg)](http://www.youtube.com/watch?v=KfzD_1QrFww&t=10 "TADHack 2021 Intro Video")
 
 To learn more, contact us via [e-mail](mailto:info@awa.network).
 
