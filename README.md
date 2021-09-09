@@ -12,4 +12,10 @@ The TADHack teaser is now live.
 
 To learn more, contact us via [e-mail](mailto:info@awa.network).
 
+Find (and follow) us on social media:
+
+- [LinkedIn](https://www.linkedin.com/company/awa-network)
+- [Twitter](https://twitter.com/awa_network)
+- [Facebook](https://www.facebook.com/awa.network.gmbh)
+
 Copyright (c) 2021 AWA Network GmbH
