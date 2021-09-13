@@ -18,4 +18,4 @@ Find (and follow) us on social media:
 - [Twitter](https://twitter.com/awa_network)
 - [Facebook](https://www.facebook.com/awa.network.gmbh)
 
-Copyright (c) 2021 AWA Network GmbH
+Copyright (c) 2021 AWA Network GmbH | [Imprint](https://awa.network/imprint)
